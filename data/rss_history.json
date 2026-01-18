@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e82643de0be0387aa31bd4f19a1f5ef70cb9de6c6d4f310f0f5052100b833d55": {
-        "title": "豆包 1.8 多模态超越谷歌Gemini 3！字节祭出“推理代工”，要做模型届的英特尔？",
-        "link": "https://www.infoq.cn/article/NUxeuOtzgAk0WHz9Rzsf?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Dec 2025 18:00:00 GMT",
-        "first_seen": "2025-12-18T23:22:46.816047"
-      },
-      "04cb215e3ff1946fd59187e78abe70e4d7737d214f4cdb6ca41cfc534933e78f": {
-        "title": "OpenAI Said to Explore Funding Round of Up to $100 billion at $750 Billion Valuation",
-        "link": "https://www.tmtpost.com/7813253.html",
-        "published_date": "Thu, 18 Dec 2025 13:35:00 GMT",
-        "first_seen": "2025-12-18T23:22:46.816053"
-      },
-      "eb4f1695f6bf15b8b9853746bdd200abffb969383a5c2b2915fb1f67571f8c68": {
-        "title": "AI云的“半程路标”：谷歌云和阿里云的逆袭，AWS、微软云的再审视",
-        "link": "https://www.tmtpost.com/7813373.html",
-        "published_date": "Thu, 18 Dec 2025 16:01:00 GMT",
-        "first_seen": "2025-12-18T23:22:46.816056"
-      },
-      "c96c5481e0642b7874aa0bdd652d61745b150defc64a3bc46985d86daac0005e": {
-        "title": "Superintelligence Set to Disrupt the Job Market, Says Chinese AI Expert",
-        "link": "https://www.tmtpost.com/7814023.html",
-        "published_date": "Fri, 19 Dec 2025 00:59:00 GMT",
-        "first_seen": "2025-12-18T23:22:46.816058"
-      },
-      "ca45991346ba901222645b9273c513070979f5db1b49658b4bd0add753632d89": {
-        "title": "AI Emerges as a Key Accelerator in the Global Race for Longevity Breakthroughs, Say Industry Experts",
-        "link": "https://www.tmtpost.com/7813608.html",
-        "published_date": "Thu, 18 Dec 2025 17:28:00 GMT",
-        "first_seen": "2025-12-18T23:22:46.816059"
-      },
       "40274c9ad4da06c9ae931596c8dbfaa7ce1489e45ee88771965acfd03cc6fdce": {
         "title": "Microsoft, Google, Nvidia Among 24 Companies Joining U.S. 'Genesis Mission' AI Initiative",
         "link": "https://www.tmtpost.com/7814493.html",
@@ -2701,6 +2671,24 @@
         "link": "https://www.tmtpost.com/7846042.html",
         "published_date": "Sat, 17 Jan 2026 19:23:00 GMT",
         "first_seen": "2026-01-17T23:22:43.110449"
+      },
+      "e009b9382c59702b99c0912a93f55a495d54068abc399bc421cfe24ea0f1ac20": {
+        "title": "【数智周报】 谷歌DeepMind CEO：中国的AI模型仅落后美国几个月；DeepSeek开源相关记忆模块Engram；微软在人工智能上的支出将达到5亿美元；美国放宽对英伟达H200芯片出口中国的管制",
+        "link": "https://www.tmtpost.com/7845741.html",
+        "published_date": "Sun, 18 Jan 2026 09:59:00 GMT",
+        "first_seen": "2026-01-18T02:29:19.550168"
+      },
+      "5d9b9a115d96fff94e5e5869b7b7da4cb4ee70cbabc368f274d3c33dc308e0b1": {
+        "title": "河南能源“巨无霸”的联姻记： 煤炭老大哥的“中年转型”能成功吗？",
+        "link": "https://www.tmtpost.com/7846351.html",
+        "published_date": "Sun, 18 Jan 2026 09:00:00 GMT",
+        "first_seen": "2026-01-18T02:29:19.550176"
+      },
+      "21b3f094b2832369f8831b9ddcddea93edc2237c5f180b1cf413dc305f0318de": {
+        "title": "石头科技的双线进击",
+        "link": "https://www.tmtpost.com/7846206.html",
+        "published_date": "Sun, 18 Jan 2026 08:01:00 GMT",
+        "first_seen": "2026-01-18T02:29:19.550178"
       }
     },
     "Finance": {
@@ -4509,39 +4497,15 @@
         "link": "https://www.marketwatch.com/story/verizon-outage-spurs-calls-for-mandatory-refunds-when-cell-service-is-disrupted-you-shouldnt-have-to-beg-for-it-d95650b2?mod=mw_rss_topstories",
         "published_date": "Sat, 17 Jan 2026 18:08:00 GMT",
         "first_seen": "2026-01-17T23:22:29.054010"
+      },
+      "69bd2eb5ac335cfdb1a1af6ae41156e571a194afbb27d1ad0f0afce9cbcfec4b": {
+        "title": "I started working as a dishwasher at age 13. Social Security refuses to acknowledge this. Am I being cheated?",
+        "link": "https://www.marketwatch.com/story/i-started-working-as-a-dishwasher-at-13-social-security-refuses-to-acknowledge-this-am-i-being-cheated-164d6435?mod=mw_rss_topstories",
+        "published_date": "Sun, 18 Jan 2026 00:30:00 GMT",
+        "first_seen": "2026-01-18T02:29:19.356083"
       }
     },
     "Ai": {
-      "cd1783b60cd9dd421706e65b64349086cf9e52b96c1de88900cda6bc56e36ac5": {
-        "title": "北大发布 ManualVLA：首个长程「生成–理解–动作」一体化模型，实现从最终状态自主生成说明书并完成操纵",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-18-4",
-        "published_date": "Thu, 18 Dec 2025 17:19:00 GMT",
-        "first_seen": "2025-12-18T23:22:23.664591"
-      },
-      "1b2bf4cef3fd772fe18067a47ce4a39c7464a18d806b18f6303793e2e1c7e4ce": {
-        "title": "与Physical Intelligence同日发声：深度机智亮出「情境数采」杀手锏，具身智能的通用性天花板要被捅破了？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-18-7",
-        "published_date": "Thu, 18 Dec 2025 18:36:00 GMT",
-        "first_seen": "2025-12-18T23:22:23.664597"
-      },
-      "73ce112047e2ad26feebcf26a3fb703a06cab5d1042e319c5ac00d25bf4c7698": {
-        "title": "150分钟，有关AGI的一切，柴天佑院士、何小鹏给出答案",
-        "link": "https://www.qbitai.com/2025/12/361745.html",
-        "published_date": "Thu, 18 Dec 2025 12:51:00 GMT",
-        "first_seen": "2025-12-18T23:22:23.664599"
-      },
-      "41cefe9c8bf225a82df22e3fb24dfd98c7ff1fe79fa4618091d1d8cb6295afad": {
-        "title": "SIGGRAPH Asia 2025 | 只用一部手机创建和渲染高质量3D数字人",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-18-6",
-        "published_date": "Thu, 18 Dec 2025 18:33:00 GMT",
-        "first_seen": "2025-12-18T23:22:23.664600"
-      },
-      "271d424e128972334dbfb51e3ddd4a79f714135a8d21ac93d9868f76c6e08131": {
-        "title": "告别抽卡！一手实测字节刚放出的视频模型Seedance 1.5 pro",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-18-5",
-        "published_date": "Thu, 18 Dec 2025 17:30:00 GMT",
-        "first_seen": "2025-12-18T23:22:23.664602"
-      },
       "486e1560c02f5a745b9bb969ad936de1ee49df0b41e56b45d35d928bf70a1d51": {
         "title": "亚马逊AGI负责人离职，强化学习大佬Pieter Abbeel接任",
         "link": "https://www.jiqizhixin.com/articles/2025-12-19-2",
@@ -6706,8 +6670,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-17T23:22:43.110452",
-    "Finance": "2026-01-17T23:22:29.054012",
+    "Technology": "2026-01-18T02:29:19.550181",
+    "Finance": "2026-01-18T02:29:19.356093",
     "Ai": "2026-01-17T23:22:29.207380"
   }
 }
